@@ -5,7 +5,7 @@ A startup company on social media is looking for ideas to improve the user satis
 
 ## Motivation 🏃
 
-The development team was asked to implement a classication system to classify the personality types of the users. Despite being unethical, the founder enforces the developers find a way to categorize its users into 16 categories using the Myers-Briggs Type indicator. As a kickoff, the company will focus on these four personality types:
+The development team was asked to implement a classication system to classify the personality types of the users in 16 categories according to the Myers-Briggs Type indicator. As a kickoff, the company will focus on these four personality types:
 
 * Introversion, Intuition, Feeling, Perceiving (INFP)
 * Introversion, Intution, Feeling, Judging (INFJ)
